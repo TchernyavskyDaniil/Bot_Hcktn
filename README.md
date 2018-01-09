@@ -35,10 +35,13 @@ BOT
 	Калита Андрей 
 		github.com/2la
 
-	Марк Страхов 
+	Страхов Марк 
 		github.com/xevolesi
 		vk.com/id233593984
-
-	Чернявский Даниил 
+		
+	Слинкин Петр
+		github.com/sinptr
+		
+	Крохмаль Даниил 
 		github.com/TchernyavskyDaniil
 		vk.com/id40371882
