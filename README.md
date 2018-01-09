@@ -41,6 +41,7 @@ BOT
 		
 	Слинкин Петр
 		github.com/sinptr
+		vk.com/s.p_13
 		
 	Крохмаль Даниил 
 		github.com/TchernyavskyDaniil
